@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\exzamen.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\Page.g.cs
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\exzamen_MarkupCompile.cache
+C:\Users\Администратор\source\repos\exzamen\exzamen\obj\Debug\exzamen_MarkupCompile.lref
